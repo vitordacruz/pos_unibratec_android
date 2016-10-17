@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="hint_search">Digite o personagem</string>
+    <string name="title_activity_detail">Detalhe</string>
+    <string name="large_text">
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_text">No heros to be shown\n at the moment</string>
+
+    <string name="tab_search">Busca</string>
+    <string name="tab_favorites">Favoritos</string>
+
+    <string name="msg_added_favorites">Favorito adicionado</string>
+    <string name="msg_removed_favorites">Removido dos favoritos</string>
+    <string name="text_undo">Desfazer</string>
+
+</resources>
